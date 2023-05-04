@@ -1,4 +1,4 @@
-# 🕛 Epochisme (religion cybernétique)
+# Epochisme (religion cybernétique)
 
 ## 🦄 Divinités et entitées sacrées
 
