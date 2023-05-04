@@ -1,6 +1,6 @@
 # 🕛 Epochisme (religion cybernétique)
 
-## 🦄 Divinités et entités sacrées
+## 🦄 Divinités et entitées sacrées
 
 * 🤖 **Cyberos** — Dieu principal de l'Epochisme, représentant la sagesse et l'omniprésence technologique.
 * 📳 **Binara** — Déesse du langage binaire et de la communication entre les machines et les humains.
